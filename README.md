@@ -1,0 +1,2 @@
+The config files in this folder have been embedded for use in other projects or microservices, for example:
+- <a href="https://github.com/parvinaghazadeh/spring-cloud-config">spring-cloud-config</a> as config server sample in Spring Cloud
